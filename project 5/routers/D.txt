@@ -1,0 +1,3 @@
+A,cs-ssh3.argo.uwf.edu,60085,6
+C,cs-ssh2.argo.uwf.edu,60080,2
+E,cs-ssh3.argo.uwf.edu,60080,8
